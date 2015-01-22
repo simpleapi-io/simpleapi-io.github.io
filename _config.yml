@@ -4,9 +4,10 @@ email: simpleapiio@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Keep it simple stupid
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://simpleapi.io" # the base hostname & protocol for your site
+url: "http://www.simpleapi.io" # the base hostname & protocol for your site
 twitter_username: simple_api
 github_username:  simpleapi-io
+appurl: "http://simpleapi.io" # the base hostname & protocol for your site
 
 # Build settings
 kramdown:
