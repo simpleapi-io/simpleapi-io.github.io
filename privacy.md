@@ -49,4 +49,4 @@ We may update this privacy policy from time-to-time by posting a new version on 
 The website contains links to other websites. We are not responsible for the privacy policies of third party websites.
 
 **Contact**
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to simpleapiio (at) gmail.com.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to simpleapiio (at) gmail.com or by post to SimpleAPI, 5023 Williamsport Dr, Norcross, GA 30092.
