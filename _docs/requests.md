@@ -1,17 +1,17 @@
 ---
 layout: doc
-title:  "Jobs"
+title:  "Requests"
 ---
 # Supported Actions
 
 ### Read
 
 <p>
-  <code class="url">GET /v1/app/jobs/{id}</code>
+  <code class="url">GET /v1/app/requests/{id}</code>
 </p>
 
 ``` curl
-curl https://simpleapi.io/v1/app/jobs/1 \
+curl https://simpleapi.io/v1/app/requests/1 \
   -H 'Authorization: Token {{"{{user_token"}}}}'
 ```
 
@@ -35,11 +35,11 @@ curl https://simpleapi.io/v1/app/jobs/1 \
 ### List
 
 <p>
-  <code class="url">GET /v1/app/jobs</code>
+  <code class="url">GET /v1/app/requests</code>
 </p>
 
 ``` curl
-curl https://simpleapi.io/v1/app/jobs \
+curl https://simpleapi.io/v1/app/requests \
   -H 'Authorization: Token {{"{{user_token"}}}}'
 ```
 
