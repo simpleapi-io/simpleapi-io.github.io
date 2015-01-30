@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.simpleapi.io" # the base hostname & protocol for your site
 twitter_username: simple_api
 github_username:  simpleapi-io
-appurl: "http://simpleapi.io" # the base hostname & protocol for your site
+appurl: "https://simpleapi.io" # the base hostname & protocol for your site
 
 # Build settings
 kramdown:
