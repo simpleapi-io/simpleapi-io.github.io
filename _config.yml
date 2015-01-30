@@ -1,6 +1,6 @@
 # Site settings
 title: SimpleAPI.io
-email: simpleapiio@gmail.com
+email: contact-us@simpleapi.io
 description: > # this means to ignore newlines until "baseurl:"
   Keep it simple stupid
 baseurl: "" # the subpath of your site, e.g. /blog/
