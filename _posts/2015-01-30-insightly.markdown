@@ -31,6 +31,6 @@ Contact 'Simple Update' was just updated
 => nil
 ```
 
-The biggest thing we learned while developing involves insightly's use of the HTTP PUT method. insightly handles PUT method as replace not update. This means the data sent with the PUT request is the only data that will exist. Unfortunately, they do not support the PATCH request. SimpleAPI insightly offering decided to treat PUT as an update. Please [contact-us](mailto:{{ site.email }}) if you would prefer to see a replace implementation.
+The biggest thing we learned while developing involves insightly's use of the HTTP PUT method. insightly handles PUT method as replace not update. This means the data sent with the PUT request is the only data that will exist. Unfortunately, they do not support the PATCH request. SimpleAPI's insightly offering treats PUT as an update. Please [contact-us](mailto:{{ site.email }}) if you would prefer to see a replace implementation.
 
 Thats all for now. Please contact us by [email](mailto:{{ site.email }}) or [twitter](https://twitter.com/{{ site.twitter_username }}) for any questions or support.
